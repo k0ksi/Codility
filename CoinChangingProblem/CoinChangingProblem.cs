@@ -29,7 +29,7 @@ namespace CoinChangingProblem
                 }
             }
 
-            return 0;
+            return dp[n];
         }
     }
 }
