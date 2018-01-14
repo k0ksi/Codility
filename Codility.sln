@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{8DBF2465-59CA-4133-89B2-B0CA80F49617}"
 EndProject
@@ -148,15 +148,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNonoverlappingSegments",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TieRopes", "TieRopes\TieRopes.csproj", "{70194E59-AE79-40AD-BC1D-8EE0990EA392}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangingProblem", "CoinChangingProblem\CoinChangingProblem.csproj", "{7B71B48A-06F8-41CD-8BBC-890834D93EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinChangingProblem", "CoinChangingProblem\CoinChangingProblem.csproj", "{7B71B48A-06F8-41CD-8BBC-890834D93EF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibFrog", "FibFrog\FibFrog.csproj", "{30A41097-542F-4B89-8234-890F6541B94A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibFrog", "FibFrog\FibFrog.csproj", "{30A41097-542F-4B89-8234-890F6541B94A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchAlgorithm", "BinarySearchAlgorithm\BinarySearchAlgorithm.csproj", "{B6D1961D-C55B-473B-B405-26D50145394B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchAlgorithm", "BinarySearchAlgorithm\BinarySearchAlgorithm.csproj", "{B6D1961D-C55B-473B-B405-26D50145394B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxDivision", "MinMaxDivision\MinMaxDivision.csproj", "{DE5A425B-9A12-4882-A0D9-C3243E4989A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinMaxDivision", "MinMaxDivision\MinMaxDivision.csproj", "{DE5A425B-9A12-4882-A0D9-C3243E4989A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NailingPlanks", "NailingPlanks\NailingPlanks.csproj", "{90D0390D-877F-4F43-8690-23AEF5A97449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NailingPlanks", "NailingPlanks\NailingPlanks.csproj", "{90D0390D-877F-4F43-8690-23AEF5A97449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinAbsSumOfTwo", "MinAbsSumOfTwo\MinAbsSumOfTwo.csproj", "{91613992-BE85-4CC1-8507-5133B5902AB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -380,6 +382,10 @@ Global
 		{90D0390D-877F-4F43-8690-23AEF5A97449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90D0390D-877F-4F43-8690-23AEF5A97449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90D0390D-877F-4F43-8690-23AEF5A97449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91613992-BE85-4CC1-8507-5133B5902AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91613992-BE85-4CC1-8507-5133B5902AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91613992-BE85-4CC1-8507-5133B5902AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91613992-BE85-4CC1-8507-5133B5902AB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -439,6 +445,7 @@ Global
 		{B6D1961D-C55B-473B-B405-26D50145394B} = {CCA75733-238F-4AB2-9BCD-B680B99059E5}
 		{DE5A425B-9A12-4882-A0D9-C3243E4989A7} = {CCA75733-238F-4AB2-9BCD-B680B99059E5}
 		{90D0390D-877F-4F43-8690-23AEF5A97449} = {CCA75733-238F-4AB2-9BCD-B680B99059E5}
+		{91613992-BE85-4CC1-8507-5133B5902AB3} = {DE2DC87E-2856-4C4F-B387-4D9808CED8DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {73F6F1B5-1A1E-4B7E-98E5-69D31E75AD58}
